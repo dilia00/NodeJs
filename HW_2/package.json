@@ -1,0 +1,12 @@
+{
+  "name": "dina_random_password",
+  "version": "1.0.0",
+  "description": "The package contains a random password creation function and a random number creation function",
+  "main": "password.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dina Mandroshchenko",
+  "license": "ISC"
+}
